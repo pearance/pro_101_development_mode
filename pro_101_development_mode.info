@@ -1,5 +1,5 @@
 name = Pro 101 Development Mode
-description = Various development tools available.
+description = Tools for the development mode.
 core = 7.x
 package = Pro 101 Development (G)
 php = 5.2.4
