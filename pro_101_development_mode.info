@@ -23,6 +23,7 @@ features[variable][] = module_filter_count_enabled
 features[variable][] = module_filter_dynamic_save_position
 features[variable][] = module_filter_tabs
 features[variable][] = module_filter_visual_aid
+features[variable][] = tadaa_environment
 features[variable][] = views_defaults
 features[variable][] = views_exposed_filter_any_label
 features[variable][] = views_show_additional_queries
