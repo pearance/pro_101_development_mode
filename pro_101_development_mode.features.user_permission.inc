@@ -10,13 +10,6 @@
 function pro_101_development_mode_user_default_permissions() {
   $permissions = array();
 
-  // Exported permission: administer contexts.
-  $permissions['administer contexts'] = array(
-    'name' => 'administer contexts',
-    'roles' => array(),
-    'module' => 'context_ui',
-  );
-
   // Exported permission: administer module filter.
   $permissions['administer module filter'] = array(
     'name' => 'administer module filter',
