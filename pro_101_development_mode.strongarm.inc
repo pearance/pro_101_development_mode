@@ -48,6 +48,13 @@ function pro_101_development_mode_strongarm() {
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
+  $strongarm->name = 'update_notify_emails';
+  $strongarm->value = '';
+  $export['update_notify_emails'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
   $strongarm->name = 'views_defaults';
   $strongarm->value = array(
     'attorneys' => TRUE,
