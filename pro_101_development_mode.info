@@ -9,7 +9,6 @@ dependencies[] = features_tools
 dependencies[] = field_ui
 dependencies[] = filter_perms
 dependencies[] = module_filter
-dependencies[] = omega_tools
 dependencies[] = pro_101_support_mode
 dependencies[] = rules_admin
 dependencies[] = stringoverrides
