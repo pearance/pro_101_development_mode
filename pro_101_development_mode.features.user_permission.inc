@@ -28,14 +28,5 @@ function pro_101_development_mode_user_default_permissions() {
     'module' => 'stringoverrides',
   );
 
-  // Exported permission: execute unlink files.
-  $permissions['execute unlink files'] = array(
-    'name' => 'execute unlink files',
-    'roles' => array(
-      0 => 'developer',
-    ),
-    'module' => 'features_tools',
-  );
-
   return $permissions;
 }
