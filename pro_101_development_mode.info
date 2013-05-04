@@ -13,6 +13,7 @@ dependencies[] = filter_perms
 dependencies[] = ftools
 dependencies[] = masquerade
 dependencies[] = masquerade_context
+dependencies[] = mobile_adaptive
 dependencies[] = module_filter
 dependencies[] = pro_101_support_mode
 dependencies[] = rules_admin
